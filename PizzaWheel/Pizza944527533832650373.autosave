@@ -1,0 +1,9 @@
+class Pizza{
+  int[] nums;
+  String[] Topps;
+  PImage img;
+  public Pizza(int[] inums, String[] iTopps){
+    nums = inums;
+    Topps = iTopps;
+  }
+}
